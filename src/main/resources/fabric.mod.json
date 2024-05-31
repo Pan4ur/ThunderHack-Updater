@@ -8,8 +8,8 @@
     "pan4ur"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/Pan4ur/",
+    "sources": "https://github.com/Pan4ur/ThunderHack-Updater/"
   },
   "license": "GPL-3.0",
   "environment": "*",
