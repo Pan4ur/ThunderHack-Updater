@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "thunderupdater",
+  "version": "${version}",
+  "name": "ThunderUpdater",
+  "description": "Mod for updating your ThunderHack",
+  "authors": [
+    "pan4ur"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "GPL-3.0",
+  "environment": "*",
+  "languageAdapters": {
+    "thunderupdater": "thunder.updater.PreLaunch"
+  },
+  "depends": {
+    "fabricloader": ">=0.15.10",
+    "minecraft": "~1.20.6",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
