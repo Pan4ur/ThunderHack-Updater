@@ -1,6 +1,6 @@
 # ThunderHack Updater
 
-It will now be easier to update ThunderHack
+It will now be easier to update ThunderHack (1.20.6)
 
 1. Delete old thunderhack.jar
 2. Add updater to mods
