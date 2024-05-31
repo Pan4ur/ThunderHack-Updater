@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# ThunderHack Updater
 
-## Setup
+It will now be easier to update ThunderHack
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+1. Delete old thunderhack.jar
+2. Add updater to mods
+3. Forget about manual updates
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+(May not work on all computers, this is a test build)
