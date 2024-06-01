@@ -1,5 +1,4 @@
-# ThunderHack Updater
-
+# <p align="center"> ThunderHack Updater </p>
 <div align="center">
 
 
