@@ -2,7 +2,7 @@
 <div align="center">
 
 
-[<img alt="alt_text" width="40px" src="https://cdn.discordapp.com/attachments/934396624111824900/1246123200740331651/Untitled-1.png?ex=665b3e2a&is=6659ecaa&hm=2c601e15a6b3e6c9e6d0994c6a2730c644642533c1effab7cf01fa470c2a7132&" style="width: 39%"/>](https://github.com/Pan4ur/ThunderHack-Updater/releases/download/latest/thunderupdater-1.0.0.jar)
+[<img alt="alt_text" width="40px" src="https://media.discordapp.net/attachments/934396624111824900/1246123200740331651/Untitled-1.png?ex=6694976a&is=669345ea&hm=5cbddcc91cda323c594378694a33d1b1a79380878f808be143d74d21b44bc34e&=&format=webp&quality=lossless" style="width: 39%"/>](https://github.com/Pan4ur/ThunderHack-Updater/releases/download/latest/thunderupdater-1.0.0.jar)
 
 ![Github Releases](https://img.shields.io/github/downloads/Pan4ur/ThunderHack-Updater/total.svg)
 
