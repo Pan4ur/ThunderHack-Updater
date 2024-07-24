@@ -13,7 +13,7 @@ import java.net.URL;
 import java.nio.file.Paths;
 
 public class PreLaunch implements LanguageAdapter {
-    private static final String version = "thunderhack-1.6.jar";
+    private static final String version = "thunderhack-1.7.jar";
 
     static {
         File file = Paths.get(FabricLoader.getInstance().getGameDir().toString(), "mods", version).toFile();

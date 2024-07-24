@@ -6,7 +6,7 @@
 
 ![Github Releases](https://img.shields.io/github/downloads/Pan4ur/ThunderHack-Updater/total.svg)
 
-It will now be easier to update ThunderHack (1.20.6)
+It will now be easier to update ThunderHack (1.21)
 
 ```1. Delete old thunderhack.jar```
 ```2. Add updater to mods```
